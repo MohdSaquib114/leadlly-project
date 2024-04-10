@@ -6,7 +6,7 @@
   "type": "commonjs",
   "scripts": {
     "build": "npx tsc",
-    "start": "node dist/server.js",
+    "start": "ts-node src/server.ts",
     "dev": "nodemon src/server.ts"
   },
   "keywords": [],
