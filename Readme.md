@@ -39,9 +39,8 @@ To get a local copy up and running, follow these simple steps:
 
 5. ** start it""
   
-  ```bash
-  npm start
-
+     ```bash
+     npm start
 
 # Vite React Starter
 
