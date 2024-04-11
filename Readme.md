@@ -37,7 +37,7 @@ To get a local copy up and running, follow these simple steps:
    SALT = 14
    JWT_SECRET = random_1234
 
-5. ** start it""
+5. **Start the project**
   
      ```bash
      npm start
