@@ -60,7 +60,16 @@ To get started with your Vite React project, follow these simple steps:
    ```bash
    npm install
 
-3. **start the project**
+3. **set url in storehippo-clone/src/hooks/useGetProducts.ts**
+
+   ```plaintext
+   
+        const response = await fetch(`http://localhost:${your port number}/v1/product/bulk`)
+       
+        
+   
+   
+5. **start the project**
   
-  ```bash
-  npm run dev
+    ```bash
+    npm run dev
